@@ -27,7 +27,7 @@ const quotes = [
     quotation.innerText = `"${random.quote}"`;
     source.innerText = random.source;
   }
-  setInterval(randomQuote, 1000);
+  setInterval(randomQuote, 5000);
 
 //   setInterval(randomQuote, 10000);
 

@@ -1,0 +1,20 @@
+html{
+    color: white;
+    background-color: black;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+
+.time{
+    /* margin-left: 0%; */
+}
+.quotes{
+    text-align: center;
+    margin-top: 35%;  
+}
+
+.cortana{
+    text-align: center;
+    
+}
